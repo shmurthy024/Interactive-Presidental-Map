@@ -1,0 +1,3 @@
+# Interactive-Presidental-Map
+Using Plotly Dash I created an interactive presidential map that shows the results of all elections from 1976-2016. The map is interactive and shows the voting splits for candidates and winner is displayed at the top every time you change the year.
+The dashboard is created entirely from python with elements of HTML and CSS. From this project I learned a lot about Plotly Dash and how I can only use Python to create a fully functional dashboard and not stress over learning HTML, CSS, and/or JS. I will definetly use this platform more in the future since it is easy and stress-free.  
